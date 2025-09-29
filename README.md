@@ -23,6 +23,7 @@
 - **Utilidades** – Scripts rápidos para productividad (Python).
 
 > Mira todos mis repos 👉 [Repositorios](https://github.com/Mateo-canales-b?tab=repositories)
+
 ## 🧰 Tech & Skills
 
 <p align="center">
@@ -58,6 +59,7 @@
   <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white"/>
   <img src="https://img.shields.io/badge/QGIS-589632?style=for-the-badge&logo=qgis&logoColor=white"/>
 </p>
+
 ## 📈 Actividad (dinámica)
 <!-- Stats (github-readme-stats) -->
 <p>
