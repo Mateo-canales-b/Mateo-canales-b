@@ -66,10 +66,10 @@
 ## 🌍 Languages
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Español-Nativo-green?style=flat&logoColor=white&labelColor=red&color=yellow&label=🇪🇸" height="40"/>
-  <img src="https://img.shields.io/badge/Inglés-Intermedio-blue?style=flat&logoColor=white&label=🇬🇧" height="40"/>
-  <img src="https://img.shields.io/badge/Francés-Básico-lightgrey?style=flat&logoColor=white&label=🇫🇷" height="40"/>
-  <img src="https://img.shields.io/badge/Portugués-Básico-lightgrey?style=flat&logoColor=white&label=🇧🇷" height="40"/>
+  🇨🇱<img src="https://img.shields.io/badge/Español-Nativo-green?style=flat" height="40"/>
+  <img src="https://img.shields.io/badge/Inglés-Intermedio-blue?style=flat" height="40"/>
+  <img src="https://img.shields.io/badge/Francés-Básico-lightgrey?style=flat" height="40"/>
+  <img src="https://img.shields.io/badge/Portugués-Básico-lightgrey?style=flat" height="40"/>
 </p>
 
 ---
