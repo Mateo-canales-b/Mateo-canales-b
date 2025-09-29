@@ -16,7 +16,7 @@
   <a href="mailto:mateo.canales.b@gmail.com">
     <img src="https://img.shields.io/badge/Email-mateo.canales.b%40gmail.com-red?style=flat&logo=gmail" height="30"/>
   </a>
-  <a href="https://www.linkedin.com/in/mateo-canales-b" target="_blank">
+  <a href="https://www.linkedin.com/in/mateo-canales-briceno" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Perfil-blue?style=flat&logo=linkedin" height="30"/>
   </a>
   <img src="https://img.shields.io/badge/focus-Data%20Engineering-blue?style=flat" height="30"/>
