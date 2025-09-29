@@ -1,81 +1,92 @@
-<img width="683" height="235" alt="image" src="https://github.com/user-attachments/assets/0c3f13c9-9c7f-4b16-a269-1d9cdc92a4fc" />
-<!-- Banner simple (opcional): puedes reemplazar por una imagen alojada en tu repo -->
-<h1 align="center">Hola, soy Mateo 👋</h1>
+<!-- Banner -->
 <p align="center">
-  Ingeniero Comercial Mención Economía • Magíster en Finanzas • Ciencia de Datos • Automatización
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1E90FF,100:00CED1&height=180&section=header&text=Hola%2C%20soy%20Mateo%20👋&fontSize=40&fontColor=ffffff" />
 </p>
 
 <p align="center">
-  <!-- Badges de contacto / status -->
-  <a href="mailto:mateo.canales.b@gmail.com"><img alt="Email" src="https://img.shields.io/badge/email-contacto-informational"></a>
-  <img alt="Focus" src="https://img.shields.io/badge/focus-Data%20Engineering-blue">
-  <img alt="License" src="https://img.shields.io/badge/license-MIT-green">
+  Ingeniero Comercial Mención Economía • Magíster en Finanzas  
+  Ciencia de Datos • Automatización
 </p>
 
 ---
 
+## 📬 Contacto
 
+<p align="center">
+  <a href="mailto:mateo.canales.b@gmail.com">
+    <img src="https://img.shields.io/badge/Email-mateo.canales.b%40gmail.com-red?style=flat&logo=gmail" height="30"/>
+  </a>
+  <a href="https://www.linkedin.com/in/mateo-canales-b" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Perfil-blue?style=flat&logo=linkedin" height="30"/>
+  </a>
+  <img src="https://img.shields.io/badge/focus-Data%20Engineering-blue?style=flat" height="30"/>
+  <img src="https://img.shields.io/badge/license-MIT-green?style=flat" height="30"/>
+</p>
+
+---
 
 ## 🚀 Proyectos destacados
 - **APP_trading_tesis** – App y scripts de trading / backtesting (Python).  
 - **Ciencia_de_datos** – Notebooks de EDA, modelos y utilidades.  
 - **Instrumentos_derivados / Aporte_tesis** – Artifacts en LaTeX.  
-- **Utilidades** – Scripts rápidos para productividad (Python).
+- **Utilidades** – Scripts rápidos para productividad (Python).  
 
 > Mira todos mis repos 👉 [Repositorios](https://github.com/Mateo-canales-b?tab=repositories)
+
+---
 
 ## 🧰 Tech & Skills
 
 <p align="center">
-  Python · GitHub · VS Code  · SQL/PostgreSQL
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="50" height="50"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="50" height="50"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="50" height="50"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="50" height="50"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="50" height="50"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" width="50" height="50"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matplotlib/matplotlib-original.svg" width="50" height="50"/>
+  <img src="https://scikit-learn.org/stable/_static/scikit-learn-logo-small.png" alt="scikit-learn" width="100" height="50"/>
+  <img src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg" alt="seaborn" width="120"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" width="50" height="50"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" width="50" height="50"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original.svg" width="50" height="50"/>
 </p>
 
 <p align="center">
-  <!-- Íconos fila 1 -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="50" height="50"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="github" width="50" height="50"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="vscode" width="50" height="50"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="postgresql" width="50" height="50"/>
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat&logo=powerbi&logoColor=black" height="80"/>
+  <img src="https://img.shields.io/badge/Excel-217346?style=flat&logo=microsoft-excel&logoColor=white" height="30"/>
+  <img src="https://img.shields.io/badge/Tableau-E97627?style=flat&logo=tableau&logoColor=white" height="30"/>
+  <img src="https://img.shields.io/badge/BigQuery-4285F4?style=flat&logo=googlebigquery&logoColor=white" height="30"/>
+  <img src="https://img.shields.io/badge/R-276DC3?style=flat&logo=r&logoColor=white" height="30"/>
+  <img src="https://img.shields.io/badge/QGIS-589632?style=flat&logo=qgis&logoColor=white" height="30"/>
 </p>
-
-<p align="center">
-  <!-- Íconos fila 2 -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="pandas" width="50" height="50"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" alt="numpy" width="50" height="50"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matplotlib/matplotlib-original.svg" alt="matplotlib" width="50" height="50"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/seaborn/seaborn-original.svg" alt="seaborn" width="50" height="50"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scikit-learn/scikit-learn-original.svg" alt="scikit-learn" width="50" height="50"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" alt="tensorflow" width="50" height="50"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" alt="pytorch" width="50" height="50"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original.svg" alt="jupyter" width="50" height="50"/>
-</p>
-
-<p align="center">
-  <!-- Badges fila 3 -->
-  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white"/>
-  <img src="https://img.shields.io/badge/BigQuery-4285F4?style=for-the-badge&logo=googlebigquery&logoColor=white"/>
-  <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white"/>
-  <img src="https://img.shields.io/badge/QGIS-589632?style=for-the-badge&logo=qgis&logoColor=white"/>
-</p>
-
-## 📈 Actividad (dinámica)
-<!-- Stats (github-readme-stats) -->
-<p>
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=Mateo-canales-b&show_icons=true&rank_icon=github" 
-    alt="GitHub stats" />
-</p>
-<p>
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mateo-canales-b&layout=compact" 
-    alt="Top languages" />
-</p>
-
-## 🗺️ En qué estoy ahora
-- Capacitandome en ciencia de datos.
-- Automatizando tareas con Actions.
 
 ---
-<sub>README generado con ❤️ y Shields.io + github-readme-stats.</sub>
+
+## 🌍 Languages
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Español-Nativo-green?style=flat&logo=google-translate" height="30"/>
+  <img src="https://img.shields.io/badge/Inglés-Intermedio-blue?style=flat&logo=google-translate" height="30"/>
+  <img src="https://img.shields.io/badge/Francés-Básico-lightgrey?style=flat&logo=google-translate" height="30"/>
+  <img src="https://img.shields.io/badge/Portugués-Básico-lightgrey?style=flat&logo=google-translate" height="30"/>
+</p>
+
+---
+
+## 📈 Actividad
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Mateo-canales-b&show_icons=true&rank_icon=github&theme=default" alt="GitHub stats" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mateo-canales-b&layout=compact&theme=default" alt="Top languages" height="150"/>
+</p>
+
+---
+
+## 🗺️ En qué estoy ahora
+- Capacitándome en ciencia de datos.  
+- Automatizando tareas con Actions.  
+
+---
+
+<sub>README generado con ❤️ — usando [Shields.io](https://shields.io) + [github-readme-stats](https://github.com/anuraghazra/github-readme-stats).
